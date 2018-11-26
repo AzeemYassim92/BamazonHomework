@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kenny1211/bamazon.git"
+    "url": "git+https://github.com/LetsCode321/bamazon.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kenny1211/bamazon/issues"
+    "url": "https://github.com/LetsCode321/bamazon/issues"
   },
-  "homepage": "https://github.com/kenny1211/bamazon#readme",
+  "homepage": "https://github.com/LetsCode321/bamazon#readme",
   "dependencies": {
     "easy-table": "^1.1.1",
     "inquirer": "^6.2.0",
